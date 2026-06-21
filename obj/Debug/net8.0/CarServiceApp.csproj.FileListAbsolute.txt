@@ -1,0 +1,17 @@
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServiceApp.AssemblyInfoInputs.cache
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServiceApp.AssemblyInfo.cs
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\shara\CarServiceApp\bin\Debug\net8.0\CarServiceApp.exe
+C:\Users\shara\CarServiceApp\bin\Debug\net8.0\CarServiceApp.deps.json
+C:\Users\shara\CarServiceApp\bin\Debug\net8.0\CarServiceApp.runtimeconfig.json
+C:\Users\shara\CarServiceApp\bin\Debug\net8.0\CarServiceApp.dll
+C:\Users\shara\CarServiceApp\bin\Debug\net8.0\CarServiceApp.pdb
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServiceApp.dll
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\refint\CarServiceApp.dll
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServiceApp.pdb
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServiceApp.genruntimeconfig.cache
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\ref\CarServiceApp.dll
+C:\Users\shara\CarServiceApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServiceApp.csproj.AssemblyReference.cache
+C:\Users\shara\CarServiceApp\obj\Debug\net8.0\CarServi.AA2A4471.Up2Date
